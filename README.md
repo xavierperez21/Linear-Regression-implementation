@@ -3,6 +3,8 @@ In this little project we're going to implement a linear regression using the me
 
 Exists other algorithms for optimization like the **gradient descent** but we're going to see that in another project. :)
 
+You can click on the file _Linear_Regression.ipynb_ to see the project with more details.
+
 ![linear regression](https://i.imgur.com/iPQN7Lpm.png)
 
 For this project we're going to use the "Boston House prices" where we will try to predict the price of a house according to the number of rooms per dwelling. We use just one parameter to visualize it in a 2D plane and we could see our model.
