@@ -20,7 +20,7 @@ For this project we're going to use the "Boston House prices" where we will try 
 ## Project online
 You can see the project working online [here](https://colab.research.google.com/drive/18rZmw9zkSVmDUQ401X8uOCh1dbjy0dyP?usp=sharing "here")
 
-Once you get there click on the "**Run**" label, and then in the "**Run all**" label and you can see the project working. Go to the last line :)
+Once you get there click on the "**Runtime**" option, and then in the "**Run all**" option and you can see the project working. Go to the last line :)
 
 ![](https://i.imgur.com/5x809Tol.png)
 
