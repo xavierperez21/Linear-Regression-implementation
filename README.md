@@ -14,7 +14,7 @@ For this project we're going to use the "Boston House prices" where we will try 
 ## Libraries used
 - Numpy
 - Scipy
-- Sklearn (to use the dataset)
+- Sklearn (to import the dataset)
 - Matplotlib
 
 ## Project online
